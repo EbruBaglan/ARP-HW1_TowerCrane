@@ -7,6 +7,10 @@ Choose a directory to work in, then clone the repo by typing
 ```bash
 git clone https://github.com/EbruBaglan/ARP_ass1
 ```
+Requirements
+----------------------
+[Konsole](https://installati.one/install-konsole-ubuntu-20-04/)
+
 Installing and running
 ----------------------
 After cloning the repo, just hit
