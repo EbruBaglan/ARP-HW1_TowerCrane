@@ -5,7 +5,7 @@ Cloning the repo for first-time users
 ----------------------
 Choose a directory to work in, then clone the repo by typing
 ```bash
-git clone https://github.com/EbruBaglan/IPC_benchmark
+git clone https://github.com/EbruBaglan/ARP_ass1
 ```
 
 tbc...
