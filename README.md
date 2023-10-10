@@ -1,5 +1,5 @@
-# Advanced Robot Programming Group Project
-This is the solution for the ARP course of UniGe.
+# ARP - Tower Crane Project
+This is the solution for the first assignment of ARP course of UniGe.
 
 Cloning the repo for first-time users
 ----------------------
@@ -19,4 +19,9 @@ chmod +x *
 ```
 to make files executable. 
 
+
+Used
+-------
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 tbc...
