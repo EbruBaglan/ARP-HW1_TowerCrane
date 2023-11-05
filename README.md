@@ -1,4 +1,6 @@
 # ARP - Tower Crane Project
+![GitHub top language](https://img.shields.io/github/languages/top/EbruBaglan/ARP-HW1_TowerCrane.svg?style=social)
+
 This is the solution for the first assignment of ARP course of UniGe.
 
 Cloning the repo for first-time users
